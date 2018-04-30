@@ -1,2 +1,2 @@
 # Berbagi
-Aplikasi berbagi untuk orang yang lebih membutuhkan
+Aplikasi ini merupakan sebuah wadah bagi orang - orang yang ingin berbagi kepada sesamanya yang lebih membutuhkan.
