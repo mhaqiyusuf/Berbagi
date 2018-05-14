@@ -18,9 +18,8 @@
                                 <PersistentState>
                                   <option name="values">
                                     <map>
-                                      <entry key="backgroundAssetType" value="COLOR" />
-                                      <entry key="backgroundColor" value="ffffff" />
                                       <entry key="foregroundImage" value="C:\Users\Limas\Documents\charityIcon.png" />
+                                      <entry key="foregroundLayerName" value="ic_ti" />
                                     </map>
                                   </option>
                                 </PersistentState>
@@ -51,7 +50,7 @@
                                 <PersistentState>
                                   <option name="values">
                                     <map>
-                                      <entry key="url" value="jar:file:/C:/Program%20Files/Android/Android%20Studio/plugins/android/lib/android.jar!/images/material_design_icons/action/ic_home_black_24dp.xml" />
+                                      <entry key="url" value="jar:file:/C:/Program%20Files/Android/Android%20Studio/plugins/android/lib/android.jar!/images/material_design_icons/hardware/ic_phone_android_black_24dp.xml" />
                                     </map>
                                   </option>
                                 </PersistentState>
@@ -61,7 +60,8 @@
                         </option>
                         <option name="values">
                           <map>
-                            <entry key="outputName" value="ic_home_black_24dp" />
+                            <entry key="color" value="1cd9d3" />
+                            <entry key="outputName" value="ic_phone_android_black_24dp" />
                             <entry key="sourceFile" value="C:\Users\Limas" />
                           </map>
                         </option>
