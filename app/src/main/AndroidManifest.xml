@@ -34,12 +34,13 @@
                 android:value=".MainActivity" />
         </activity>
         <activity
-            android:name=".loginActivity"
+            android:name=".User.loginActivity"
             android:label="Login" />
-        <activity android:name=".registerActivity"
-            android:label="Register">
-
-        </activity>
+        <activity
+            android:name=".User.registerActivity"
+            android:label="Register" />
+        <activity android:name=".Donation.donationActivity" />
+        <activity android:name=".paymentActivity"></activity>
     </application>
 
 </manifest>
