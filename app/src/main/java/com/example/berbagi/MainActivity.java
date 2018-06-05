@@ -88,6 +88,8 @@ public class MainActivity extends AppCompatActivity
             profileFragment second = new profileFragment();
             android.support.v4.app.FragmentManager fragmentManager = getSupportFragmentManager();
             fragmentManager.beginTransaction().replace(R.id.fragment, new profileFragment()).commit();
+        } else if (id == R.id.nav_add) {
+            startActivity(new Intent(this, ContentAdd.class));
         }
 
         DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);

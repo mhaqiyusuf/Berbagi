@@ -13,13 +13,28 @@
                       <PersistentState>
                         <option name="children">
                           <map>
+                            <entry key="actionbar">
+                              <value>
+                                <PersistentState>
+                                  <option name="values">
+                                    <map>
+                                      <entry key="assetType" value="IMAGE" />
+                                      <entry key="imageAsset" value="C:\Users\Limas\AndroidStudioProjects\Berbagi\app\src\main\res\drawable\charityicon.png" />
+                                      <entry key="outputName" value="ic_logoku" />
+                                    </map>
+                                  </option>
+                                </PersistentState>
+                              </value>
+                            </entry>
                             <entry key="launcher">
                               <value>
                                 <PersistentState>
                                   <option name="values">
                                     <map>
-                                      <entry key="foregroundImage" value="C:\Users\Limas\Documents\charityIcon.png" />
-                                      <entry key="foregroundLayerName" value="ic_ti" />
+                                      <entry key="backgroundLayerName" value="ic_launcher_background" />
+                                      <entry key="foregroundImage" value="C:\Users\Limas\Desktop\charityicon.jpg" />
+                                      <entry key="foregroundLayerName" value="ic_logou" />
+                                      <entry key="outputName" value="logoku" />
                                     </map>
                                   </option>
                                 </PersistentState>
@@ -50,7 +65,7 @@
                                 <PersistentState>
                                   <option name="values">
                                     <map>
-                                      <entry key="url" value="jar:file:/C:/Program%20Files/Android/Android%20Studio/plugins/android/lib/android.jar!/images/material_design_icons/hardware/ic_phone_android_black_24dp.xml" />
+                                      <entry key="url" value="jar:file:/C:/Program%20Files/Android/Android%20Studio/plugins/android/lib/android.jar!/images/material_design_icons/content/ic_add_circle_black_24dp.xml" />
                                     </map>
                                   </option>
                                 </PersistentState>
@@ -60,8 +75,7 @@
                         </option>
                         <option name="values">
                           <map>
-                            <entry key="color" value="1cd9d3" />
-                            <entry key="outputName" value="ic_phone_android_black_24dp" />
+                            <entry key="outputName" value="ic_add_circle_black_24dp" />
                             <entry key="sourceFile" value="C:\Users\Limas" />
                           </map>
                         </option>

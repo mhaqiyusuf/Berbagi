@@ -28,4 +28,12 @@
     <string name="description">Description</string>
     <string name="donation">Donation</string>
     <string name="donation_image">Donation Image</string>
+    <string name="manuals">
+        Manual : \n
+        1. Select a campaign \n
+        2. Press the donation button \n
+        3. Enter the name and amount of money \n
+        4. Press the confirmation button \n
+        5. Verify to WA number that listed in the campaign \n
+    </string>
 </resources>
